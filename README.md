@@ -42,6 +42,13 @@ This project is an interactive Spotify Dashboard built using Microsoft Power BI.
 - Data Visualization
 
 ---
+## 📊 Business Insights
+
+- Identified the most popular artists.
+- Compared popularity across albums.
+- Analyzed song popularity trends.
+- Visualized genre distribution.
+- Created interactive filters for better exploration.
 
 ## 📂 Files
 
@@ -49,10 +56,19 @@ This project is an interactive Spotify Dashboard built using Microsoft Power BI.
 
 ---
 
-## 👩‍💻 Author
+## ## 👩‍💻 Author
 
 **Nikita Pardeshi**
 
 Aspiring Data Analyst
 
-GitHub: https://github.com/npardeshi129-collab
+🔗 GitHub: https://github.com/npardeshi129-collab
+
+🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+
+## 📁 Dataset
+
+- Spotify Songs Dataset
+- Source: Kaggle
+- Format: Excel (.xlsx)
+  

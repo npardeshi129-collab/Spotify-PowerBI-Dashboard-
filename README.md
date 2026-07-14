@@ -1,48 +1,58 @@
-Skip to content
-npardeshi129-collab
-Spotify-PowerBI-Dashboard-
-Repository navigation
-Code
-Issues
-Pull requests
-Agents
-Actions
-Projects
-Wiki
-Security and quality
-Insights
-Settings
-Files
-Go to file
-t
-T
-README.md
-Top _word _song.pbix
-Spotify-PowerBI-Dashboard-
-/
-README.md
-in
-main
+# 🎵 Spotify Power BI Dashboard
 
-Edit
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Used-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-success)
 
-Preview
-Indent mode
+## 📌 Project Overview
 
-Spaces
-Indent size
+This project is an interactive Spotify Dashboard built using Microsoft Power BI. It provides insights into Spotify songs, artists, albums, genres, popularity, and music trends through interactive visualizations.
 
-2
-Line wrap mode
+---
 
-Soft wrap
-Editing README.md file contents
-  1
-  2
-  3
-# Spotify-PowerBI-Dashboard-
-Interactive Spotify Dashboard created using Power BI
+## 🛠️ Tools Used
 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
+- Power BI
+- Power Query
+- DAX
+- Excel Dataset
+
+---
+
+## 📊 Dashboard Features
+
+- Total Songs
+- Top Artists
+- Top Albums
+- Most Popular Songs
+- Genre Analysis
+- Popularity Analysis
+- Interactive Filters
+- KPI Cards
+
+---
+
+## 📈 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Power BI
+- DAX
+- Dashboard Design
+- Data Visualization
+
+---
+
+## 📂 Files
+
+- Top_word_song.pbix
+
+---
+
+## 👩‍💻 Author
+
+**Nikita Pardeshi**
+
+Aspiring Data Analyst
+
+GitHub: https://github.com/npardeshi129-collab
